@@ -1,9 +1,9 @@
 ### Mehmet Can Yağmurkaya
 #### Software Developer
 
-I graduated from Computer Engineering program. I'm interested in web programming, but I also like to work on data science. I know it's two different technologies, but I'm still developing projects in two areas and trying to learn new things. I write articles about the topics I research and the technologies I learn and share them here.
+I am a Computer Engineering student. I'm interested in mobil programming. I write articles about the topics I research and the technologies I learn and share them here.
 
-Skills: NodeJS, React, JavaScript, Python, SQL, MongoDB, Redis
+Skills: Flutter, Go Language, SQL
 
 
 
