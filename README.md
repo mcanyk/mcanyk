@@ -1,7 +1,7 @@
 ### Mehmet Can Yağmurkaya
 #### Software Developer
 
-I am a Computer Engineering student. I'm interested in mobil programming. I write articles about the topics I research and the technologies I learn and share them here.
+I am graduated from computer engineering department. I'm interested in mobil programming. I write articles about the topics I research and the technologies I learn and share them here.
 
 Skills: Flutter, Go Language, SQL
 
